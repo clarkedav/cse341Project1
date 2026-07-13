@@ -1,0 +1,20 @@
+{
+  "name": "cse341project1",
+  "version": "1.0.0",
+  "description": "My First Project",
+  "homepage": "https://github.com/clarkedav/cse341Project1#readme",
+  "bugs": {
+    "url": "https://github.com/clarkedav/cse341Project1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarkedav/cse341Project1.git"
+  },
+  "license": "ISC",
+  "author": "David Esumei",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
