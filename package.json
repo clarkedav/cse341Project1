@@ -22,7 +22,7 @@
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "mongodb": "^7.5.0",
-    "swagger-autogen": "^2.23.7",
+    "swagger-autogen": "^2.9.2",
     "swagger-ui-express": "^5.0.1"
   }
 }
